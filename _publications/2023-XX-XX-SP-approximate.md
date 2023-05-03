@@ -2,7 +2,7 @@
 title: "Approximate maximum likelihood time-delay estimation for two closely spaced sources"
 collection: publications
 permalink: /publication/2023-XX-XX-SP-approximate
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'In this paper an approximation of the dual source maximum likelihood criterion is proposed to tackle the untractable case when the sources are very closed in space.'
 date: 2023-07-01
 venue: 'Signal Processing'
 doi: '10.1016/j.sigpro.2023.109056'

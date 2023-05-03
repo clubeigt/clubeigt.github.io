@@ -2,7 +2,7 @@
 title: "Band-limited impulse response estimation performance"
 collection: publications
 permalink: /publication/2023-04-01-SP-band-limited
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'This paper presents a model for signals reflected from extended reflecting surfaces. This model is based on a discrete representation of the reflecting surface impulse response. Possible strategies to evaluate the size of the impulse response are also proposed.'
 date: 2023-07-01
 venue: 'Signal Processing'
 doi: '10.1016/j.sigpro.2023.108998'

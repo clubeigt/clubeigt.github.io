@@ -2,7 +2,7 @@
 title: "Untangling first and second order statistics contributions in multipath scenarios"
 collection: publications
 permalink: /publication/2023-04-01-SP-untangling
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'This paper presents the derivation of a closed-form misspecified Cramér-Rao bound for low-cost GNSS receivers in presence of multipath.'
 date: 2023-04-01
 venue: 'Signal Processing'
 doi: '10.1016/j.sigpro.2022.108868'

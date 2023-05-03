@@ -2,7 +2,7 @@
 title: "On the impact and mitigation of signal crosstalk in ground-based and low altitude airborne GNSS-R"
 collection: publications
 permalink: /publication/2020-11-27-RS-crosstalk
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'This paper makes use of the Cramér-Rao bound as a metric to assess the impact of signal crosstalk between two antennas of a GNSS-R receiver.'
 date: 2021-03-12
 venue: 'Remote Sensing'
 doi: '10.3390/rs13061085'
