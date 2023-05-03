@@ -2,7 +2,7 @@
 title: "GRETSI 2022"
 collection: talks
 type: "Colloque"
-permalink: /talks/2022-09-06-GRETSI-bande-large
+permalink: /talks/2022-09-06-GRETSI-bande-large-talk
 venue: "Palais des Congrès"
 date: 2022-09-09
 location: "Nancy, France"
