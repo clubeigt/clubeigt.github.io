@@ -5,7 +5,7 @@ type: "Workshop"
 permalink: /talks/2022-04-05-NAVITEC-ground-gnss-r-talk
 venue: "Virtual conference rooms"
 date: 2022-04-06
-location: "The Internet\*"
+location: "The Internet"
 ---
 
 Presentation\* of the paper [*Close-to-ground single antenna GNSS-R*](/publication/2022-04-05-NAVITEC-ground-gnss-r) at the ESA Workhop NAVITEC 2022.
