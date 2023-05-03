@@ -2,7 +2,7 @@
 title: "NAVITEC 2022"
 collection: talks
 type: "Workshop"
-permalink: /talks/2022-03-05-NAVITEC-ground-gnss-r-talk
+permalink: /talks/2022-04-05-NAVITEC-ground-gnss-r-talk
 venue: "Virtual conference rooms"
 date: 2022-04-06
 location: "The Internet\*"
