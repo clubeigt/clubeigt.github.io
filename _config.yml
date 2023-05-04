@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Corentin Lubeigt"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Corentin Lubeigt"
 description              : &description "personal description"
