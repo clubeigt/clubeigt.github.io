@@ -7,7 +7,7 @@ author_profile: true
 
 ## Journals
 ---
-0. Corentin Lubeigt, François Vincent, Lorenzo Ortega, Jordi Vilà-Valls, Eric Chaumette, &quot;Approximate maximum likelihood time-delay estimation for two closely spaced sources,&quot; <i>Signal Processing</i>, Vol. XXX, 109056, <b>2023</b>. [[paper]](/publication/2023-XX-XX-SP-approximate)
+0. Corentin Lubeigt, François Vincent, Lorenzo Ortega, Jordi Vilà-Valls, Eric Chaumette, &quot;Approximate maximum likelihood time-delay estimation for two closely spaced sources,&quot; <i>Signal Processing</i>, Vol. 210, 109056, <b>2023</b>. [[paper]](/publication/2023-09-01-SP-approximate)
 0. Corentin Lubeigt, Lorenzo Ortega, Jordi Vilà-Valls, Eric Chaumette, &quot;Band-limited impulse response estimation performance,&quot; <i>Signal Processing</i>, Vol. 208, 108998, <b>2023</b>. [[paper]](/publication/2023-04-01-SP-band-limited)
 0. Corentin Lubeigt, Lorenzo Ortega, Jordi Vilà-Valls, Eric Chaumette, &quot;Untangling first and second order statistics contributions in multipath scenarios,&quot; <i>Signal Processing</i>, Vol. 205, 108868, <b>2023</b>. [[paper]](/publication/2023-04-01-SP-untangling)
 0. Corentin Lubeigt, Lorenzo Ortega, Jordi Vilà-Valls, Laurent Lestarquit, Eric Chaumette, &quot;Clean-to-Composite Bound Ratio: a multipath criterion for GNSS signal design and analysis,&quot; <i>IEEE Transactions on Aerospace and Electronic Systems</i>, Vol. 58, no. 6, pp. 5412--5424, <b>2022</b>. [[paper]](/publication/2022-05-03-TAES-ccbr)
