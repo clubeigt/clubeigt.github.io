@@ -10,6 +10,6 @@ For more than three decades, Global Navigation Satellite System (GNSS) signals h
 
 [Author version](http://clubeigt.github.io/files/2022_NAVITEC_ground_gnss_r.pdf)
 
-Recommended citation: Corentin Lubeigt, François Vincent, Lorenzo Ortega, Jordi Vilà-Valls, Laurent Lestarquit, Eric Chaumette, &quot;Close-to-ground single antenna GNSS-R,&quot; <i>ESA Workshop on Satellite Navigation Technologies and European Workshop on GNSS Signals and Signal Processing (NAVITEC)</i>, <b>April 2022</b>, Online event.
+Recommended citation: Corentin Lubeigt, François Vincent, Lorenzo Ortega, Jordi Vilà-Valls, Laurent Lestarquit, Eric Chaumette, &quot;Close-to-ground single antenna GNSS-R,&quot; <i>ESA Workshop on Satellite Navigation Technologies and European Workshop on GNSS Signals and Signal Processing (NAVITEC)</i>, April 2022, Online event.
 
 [Bibtex](http://clubeigt.github.io/files/2022_NAVITEC_ground_gnss_r_bib.bib)

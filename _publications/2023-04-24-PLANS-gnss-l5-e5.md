@@ -10,6 +10,6 @@ Global Navigation Satellite Systems (GNSS) are a key player in a plethora of app
 
 [Author version](http://clubeigt.github.io/files/2023_PLANS_gnss_l5_e5.pdf)
 
-Recommended citation: Lorenzo Ortega, Corentin Lubeigt, Jordi Vilà-Valls, Eric Chaumette, &quot;GNSS L5/E5 maximum likelihood synchronization performance degradation under DME interferences,&quot; <i>IEEE/ION Position Location and Navigation Symposium (PLANS)</i>, <b>April 2023</b>, Monterey, CA, USA.
+Recommended citation: Lorenzo Ortega, Corentin Lubeigt, Jordi Vilà-Valls, Eric Chaumette, &quot;GNSS L5/E5 maximum likelihood synchronization performance degradation under DME interferences,&quot; <i>IEEE/ION Position Location and Navigation Symposium (PLANS)</i>, April 2023, Monterey, CA, USA.
 
 [Bibtex](http://clubeigt.github.io/files/2023_PLANS_gnss_l5_e5_bib.bib)
