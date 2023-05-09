@@ -1,9 +1,9 @@
 ---
 title: "Approximate maximum likelihood time-delay estimation for two closely spaced sources"
 collection: publications
-permalink: /publication/2023-XX-XX-SP-approximate
+permalink: /publication/2023-09-01-SP-approximate
 excerpt: 'In this paper an approximation of the dual source maximum likelihood criterion is proposed to tackle the untractable case when the sources are very closed in space.'
-date: 2023-07-01
+date: 2023-09-01
 venue: 'Signal Processing'
 doi: '10.1016/j.sigpro.2023.109056'
 ---
@@ -11,6 +11,6 @@ When a signal is strongly distorted by a reflecting surface, the surface can be 
 
 [Paper available here](http://clubeigt.github.io/files/2023_SP_approximate.pdf)
 
-Recommended citation: Corentin Lubeigt, François Vincent, Lorenzo Ortega, Jordi Vilà-Valls, Eric Chaumette, &quot;Approximate maximum likelihood time-delay estimation for two closely spaced sources,&quot; <i>Signal Processing</i>, <b>2023</b>, Vol. XXX, 109056.
+Recommended citation: Corentin Lubeigt, François Vincent, Lorenzo Ortega, Jordi Vilà-Valls, Eric Chaumette, &quot;Approximate maximum likelihood time-delay estimation for two closely spaced sources,&quot; <i>Signal Processing</i>, <b>2023</b>, Vol. 210, 109056.
 
 [Bibtex](http://clubeigt.github.io/files/2023_SP_approximate_bib.bib)
