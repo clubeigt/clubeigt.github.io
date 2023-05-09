@@ -11,7 +11,7 @@ When a signal is strongly distorted by a reflecting surface, the surface can be 
 
 [Author Version](http://clubeigt.github.io/files/2023_SP_band-limited.pdf)
 
-Recommended citation: Corentin Lubeigt, Lorenzo Ortega, Jordi Vilà-Valls, Eric Chaumette, &quot;Band-limited impulse response estimation performance,&quot; <i>Signal Processing</i>, <b>2023</b>, Vol. 208, 108998.
+Recommended citation: Corentin Lubeigt, Lorenzo Ortega, Jordi Vilà-Valls, Eric Chaumette, &quot;Band-limited impulse response estimation performance,&quot; <i>Signal Processing</i>, Vol. 208, 108998, <b>2023</b>.
 
 [Bibtex](http://clubeigt.github.io/files/2023_SP_band-limited_bib.bib)
 

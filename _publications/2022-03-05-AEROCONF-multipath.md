@@ -11,6 +11,6 @@ In Global Navigation Satellite Systems, resilience to multipath remains an impor
 
 [Author version](http://clubeigt.github.io/files/2022_AEROCONF_multipath.pdf)
 
-Recommended citation: Corentin Lubeigt, Lorenzo Ortega, Jordi Vilà-Valls, Laurent Lestarquit, Eric Chaumette, &quot;Multipath estimating techniques performance analysis,&quot; <i>IEEE Aerospace Conference (AERO)</i>, March 2022, Big Sky, MT, USA.
+Recommended citation: Corentin Lubeigt, Lorenzo Ortega, Jordi Vilà-Valls, Laurent Lestarquit, Eric Chaumette, &quot;Multipath estimating techniques performance analysis,&quot; <i>IEEE Aerospace Conference (AERO)</i>, Big Sky, MT, USA, March 2022.
 
 [Bibtex](http://clubeigt.github.io/files/2022_AEROCONF_multipath_bib.bib)

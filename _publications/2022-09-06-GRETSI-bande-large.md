@@ -13,6 +13,6 @@ For more than three decades, Global Navigation Satellite System (GNSS) signals h
 
 [Author version](http://clubeigt.github.io/files/2022_GRETSI_bande_large.pdf)
 
-Recommended citation: Corentin Lubeigt, Jordi Vilà-Valls, Laurent Lestarquit, Eric Chaumette, &quot;Les signaux à bande large au service de la réflectométrie par GNSS à site bas,&quot; <i>Colloque du Groupe de Recherche et d'Etudes de Traitement du Signal et des Images (GRETSI)</i>, September 2022, Nancy, France.
+Recommended citation: Corentin Lubeigt, Jordi Vilà-Valls, Laurent Lestarquit, Eric Chaumette, &quot;Les signaux à bande large au service de la réflectométrie par GNSS à site bas,&quot; <i>Colloque du Groupe de Recherche et d'Etudes de Traitement du Signal et des Images (GRETSI)</i>, Nancy, France, September 2022.
 
 [Bibtex](http://clubeigt.github.io/files/2022_GRETSI_bande_large_bib.bib)

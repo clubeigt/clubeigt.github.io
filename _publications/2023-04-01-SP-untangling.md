@@ -11,7 +11,7 @@ In ranging-based applications, ignoring the presence of multipath often leads to
 
 [Author version](http://clubeigt.github.io/files/2023_SP_untangling.pdf)
 
-Recommended citation: Corentin Lubeigt, Lorenzo Ortega, Jordi Vilà-Valls, Eric Chaumette, &quot;Untangling first and second order statistics contributions in multipath scenarios,&quot; <i>Signal Processing</i>, <b>2023</b>, Vol. 205, 108868.
+Recommended citation: Corentin Lubeigt, Lorenzo Ortega, Jordi Vilà-Valls, Eric Chaumette, &quot;Untangling first and second order statistics contributions in multipath scenarios,&quot; <i>Signal Processing</i>, Vol. 205, 108868, <b>2023</b>.
 
 [Bibtex](http://clubeigt.github.io/files/2023_SP_untangling_bib.bib)
 

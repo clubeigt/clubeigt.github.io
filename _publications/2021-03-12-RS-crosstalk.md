@@ -11,6 +11,6 @@ Global Navigation Satellite System Reflectometry (GNSS-R) is a powerful way to r
 
 [Published version](http://clubeigt.github.io/files/2021_RS_crosstalk.pdf)
 
-Recommended citation: Corentin Lubeigt, Lorenzo Ortega, Jordi Vilà-Valls, Laurent Lestarquit, Eric Chaumette, &quot;On the impact and mitigation of signal crosstalk in ground-based and low altitude airborne GNSS-R,&quot; <i>Remote Sensing</i>, <b>2021</b>, 13(6), 1085.
+Recommended citation: Corentin Lubeigt, Lorenzo Ortega, Jordi Vilà-Valls, Laurent Lestarquit, Eric Chaumette, &quot;On the impact and mitigation of signal crosstalk in ground-based and low altitude airborne GNSS-R,&quot; <i>Remote Sensing</i>, 13(6), 1085, <b>2021</b>.
 
 [Bibtex](http://clubeigt.github.io/files/2021_RS_crosstalk_bib.bib)

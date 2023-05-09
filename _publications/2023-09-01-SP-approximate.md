@@ -11,6 +11,6 @@ When a signal is strongly distorted by a reflecting surface, the surface can be 
 
 [Paper available here](http://clubeigt.github.io/files/2023_SP_approximate.pdf)
 
-Recommended citation: Corentin Lubeigt, François Vincent, Lorenzo Ortega, Jordi Vilà-Valls, Eric Chaumette, &quot;Approximate maximum likelihood time-delay estimation for two closely spaced sources,&quot; <i>Signal Processing</i>, <b>2023</b>, Vol. 210, 109056.
+Recommended citation: Corentin Lubeigt, François Vincent, Lorenzo Ortega, Jordi Vilà-Valls, Eric Chaumette, &quot;Approximate maximum likelihood time-delay estimation for two closely spaced sources,&quot; <i>Signal Processing</i>, Vol. 210, 109056, <b>2023</b>.
 
 [Bibtex](http://clubeigt.github.io/files/2023_SP_approximate_bib.bib)
