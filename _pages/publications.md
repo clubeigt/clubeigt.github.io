@@ -17,9 +17,9 @@ author_profile: true
 
 ## International Conferences
 ---
-0. Lorenzo Ortega, Corentin Lubeigt, Jordi Vilà-Valls, Eric Chaumette, &quot;GNSS L5/E5 maximum likelihood synchronization performance degradation under DME interference,&quot; <i>IEEE/ION Position Location and Navigation Symposium (PLANS)</i>, Monterey, CA, USA, April 2023. [[paper]](/publication/2023-04-24-PLANS-gnss-l5-e5)
 0. Corentin Lubeigt, François Vincent, Lorenzo Ortega, Jordi Vilà-Valls, Laurent Lestarquit, Eric Chaumette, &quot;Close-to-ground single antenna GNSS-R,&quot; <i>ESA Workshop on Satellite Navigation Technologies and European Workshop on GNSS Signals and Signal Processing (NAVITEC)</i>, Online event, April 2022. [[paper]](/publication/2022-04-05-NAVITEC-ground-gnss-r) [[presentation]](/talks/2022-04-05-NAVITEC-ground-gnss-r-talk)
 0. Corentin Lubeigt, Lorenzo Ortega, Jordi Vilà-Valls, Laurent Lestarquit, Eric Chaumette, &quot;Multipath estimating techniques performance analysis,&quot; <i>IEEE Aerospace Conference (AERO)</i>, Big Sky, MT, USA, March 2022. [[paper]](/publication/2022-03-05-AEROCONF-multipath) [[presentation]](/talks/2022-03-05-AEROCONF-multipath-talk)
+0. Lorenzo Ortega, Corentin Lubeigt, Jordi Vilà-Valls, Eric Chaumette, &quot;GNSS L5/E5 maximum likelihood synchronization performance degradation under DME interference,&quot; <i>IEEE/ION Position Location and Navigation Symposium (PLANS)</i>, Monterey, CA, USA, April 2023. [[paper]](/publication/2023-04-24-PLANS-gnss-l5-e5)
 {: reversed="reversed"}
 
 ## National Conferences
