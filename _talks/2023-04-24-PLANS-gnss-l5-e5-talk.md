@@ -2,7 +2,7 @@
 title: "IEEE/ION Position Location and Navigation Symposium (PLANS) 2023"
 collection: talks
 type: "Conference"
-permalink: /talks/2023-04-24-PLANS-gnss-l5-e5-talks
+permalink: /talks/2023-04-24-PLANS-gnss-l5-e5-talk
 venue: "Hyatt Regency Monterey"
 date: 2023-04-26
 location: "Monterey, California, USA"
