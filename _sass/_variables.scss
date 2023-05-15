@@ -87,10 +87,13 @@ $vimeo-color                : #1ab7ea;
 $vine-color                 : #00bf8f;
 $youtube-color              : #bb0000;
 $xing-color                 : #006567;
+$tesa-blue-color            : #2264AD;
+$tesa-blue-orange           : #F08717;
+
 
 
 /* links */
-$link-color                 : #2264AD;
+$link-color                 : $tesa-blue-color;
 $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
 $masthead-link-color        : $primary-color;
