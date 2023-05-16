@@ -3,8 +3,8 @@ title: "GNSS Satellites Predictor"
 collection: softwares
 permalink: /software/gnss-sat-predictor
 gallery:
-  - url: software/gnss-sat-predictor-main.PNG
-    image_path: software/gnss-sat-predictor-main.PNG
+  - url: software/gnss-sat-predictor-main.png
+    image_path: software/gnss-sat-predictor-main.png
     alt: "GNSS Satellite Predictor main window"
     title: "GNSS Satellite Predictor main window"
   - url: software/gnss-sat-predictor-elev.png
@@ -21,7 +21,7 @@ repository: github.com/clubeigt/gnss-sat-predictor
 
 ## _A way to know where they are_
 
-GNSS Sat Predictor is a Matlab toolbox implementing a SGP4 orbit propagator to predict GNSS satellites position based on current TLE. It allows the user to select a time window either in past or in the future and to generate comprehensive figures (elevation plots or skyplots) to visualize the position of the considered satellites at the moment of interest.
+GNSS Sat Predictor is a Matlab toolbox implementing a SGP4 orbit propagator to predict GNSS satellites position based on current TLE. It allows the user to select a time window either in the past or in the future and to generate comprehensive figures (elevation plots or skyplots) to visualize the position of the considered satellites at the moment of interest.
 
 {% include gallery %}
 
@@ -40,4 +40,4 @@ The following contributors should be thanked for sharing their code:
 - Meysam Mahooti for providing the [SGP4 original package](https://www.mathworks.com/matlabcentral/fileexchange/62013-sgp4)
 - Moein Mehrtash for providing computeAzimuthElevation.m 
 - Eric Calais for providing [skyplot.m](http://www.geologie.ens.fr/~ecalais/teaching/gps-geodesy/solutions-to-gps-geodesy/)
-- Serge Fabre (TéSA lab) and Benoît Priot (ISAE-SUPAERO) for their precious feedbacks
+- Serge Fabre ([TéSA](https://tesa.prd.fr) lab) and Benoît Priot (ISAE-SUPAERO) for their precious feedbacks

@@ -3,8 +3,8 @@ title: "CRB Overviewer"
 collection: softwares
 permalink: /software/crb-overviewer
 gallery:
-  - url: software/crb-overviewer.PNG
-    image_path: software/crb-overviewer.PNG
+  - url: software/crb-overviewer.png
+    image_path: software/crb-overviewer.png
     alt: "CRB Overviewer main windonw"
     title: "CRB Overviewer main window"
 repository: github.com/clubeigt/crb-overviewer
