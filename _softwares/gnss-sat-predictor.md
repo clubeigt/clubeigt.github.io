@@ -3,8 +3,8 @@ title: "GNSS Satellites Predictor"
 collection: softwares
 permalink: /software/gnss-sat-predictor
 gallery:
-  - url: software/gnss-sat-predictor-main.png
-    image_path: software/gnss-sat-predictor-main.png
+  - url: software/gnss-sat-predictor-main-window.png
+    image_path: software/gnss-sat-predictor-main-window.png
     alt: "GNSS Satellite Predictor main window"
     title: "GNSS Satellite Predictor main window"
   - url: software/gnss-sat-predictor-elev.png
