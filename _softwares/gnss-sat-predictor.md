@@ -33,7 +33,7 @@ GNSS Sat Predictor is a Matlab toolbox implementing a SGP4 orbit propagator to p
 - in Plot generator, select the satellites to be plotted in the Constellation list
 - hit either **Skyplot** or **Elevation plot** to generate the corresponding figure for the selected satellites
 
-# Acknowledgements
+## Acknowledgements
 
 The following contributors should be thanked for sharing their code:
 - David Vallado for providing most of the functions in the SGP4 original package
