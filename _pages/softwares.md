@@ -7,7 +7,7 @@ author_profile: true
 
 ## Toolboxes
 ---
-- CRB Overviewer [here](/_softwares/crb-overviewer.md)
-- GNSS Satellites Predictor [there](/_softwares/gnss-sat-predictor.md)
+- CRB Overviewer [here](/software/crb-overviewer)
+- GNSS Satellites Predictor [there](/software/gnss-sat-predictor)
 
 
