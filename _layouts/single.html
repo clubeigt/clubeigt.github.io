@@ -44,6 +44,12 @@ layout: default
         {% if page.doi %}
           <p> DOI: <a href="http://doi.org/{{ page.doi }}">{{ page.doi }}</a></p>
         {% endif %}
+
+        {% if page.repository %}
+          <p> code repository: <a href="https://{{ page.repository }}">{{ page.repository }}</a></p>
+        {% endif %}
+
+        
              
         {% if page.citation and page.paperurl %}
           <p>Recommended citation: {{ page.citation }} <a href="{{ page.paperurl }}"><u>{{ page.paperurl }}</u></a></p>

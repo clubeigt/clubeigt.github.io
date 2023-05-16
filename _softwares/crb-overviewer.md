@@ -7,11 +7,14 @@ gallery:
     image_path: software/crb-overviewer.PNG
     alt: "CRB Overviewer main windonw"
     title: "CRB Overviewer main window"
+repository: github.com/clubeigt/crb-overviewer
 ---
 
 ## _An introduction to determinististic estimation theory tools_
 
 CRB Overviewer is a Matlab toolbox presenting deterministic estimation theory tools (CRB, MCRB, related metrics) for joint time-delay/Doppler frequency estimation in a dual source context.
+
+{% include gallery %}
 
 ## Quick tutorial
 
