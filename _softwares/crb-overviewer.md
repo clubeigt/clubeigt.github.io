@@ -2,7 +2,11 @@
 title: "CRB Overviewer"
 collection: softwares
 permalink: /software/crb-overviewer
-
+gallery:
+  - url: software/crb-overviewer.PNG
+    image_path: software/crb-overviewer.PNG
+    alt: "CRB Overviewer main windonw"
+    title: "CRB Overviewer main window"
 ---
 
 ## _An introduction to determinististic estimation theory tools_

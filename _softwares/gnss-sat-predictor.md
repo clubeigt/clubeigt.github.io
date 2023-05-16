@@ -2,7 +2,22 @@
 title: "GNSS Satellites Predictor"
 collection: softwares
 permalink: /software/gnss-sat-predictor
+gallery:
+  - url: software/gnss-sat-predictor-main.PNG
+    image_path: software/gnss-sat-predictor-main.PNG
+    alt: "GNSS Satellite Predictor main window"
+    title: "GNSS Satellite Predictor main window"
+  - url: software/gnss-sat-predictor-main.PNG
+    image_path: software/gnss-sat-predictor-elev.PNG
+    alt: "GNSS Satellite Predictor elevation plot"
+    title: "GNSS Satellite Predictor elevation plot"
+  - url: software/gnss-sat-predictor-skyplot.PNG
+    image_path: software/gnss-sat-predictor-skyplot.PNG
+    alt: "GNSS Satellite Predictor skyplot"
+    title: "GNSS Satellite Predictor skyplot"
+repository: github.com/clubeigt/gnss-sat-predictor
 ---
+
 
 ## _A way to know where they are_
 
