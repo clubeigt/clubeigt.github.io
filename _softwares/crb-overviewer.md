@@ -16,13 +16,10 @@ CRB Overviewer is a Matlab toolbox presenting deterministic estimation theory to
 - hit **Process** button of the desired box to get the corresponding metric
 
 ## References
-[1] D. Medina, L. Ortega, J. Vilà-Valls, P. Closas, F. Vincent, E. Chaumette, "Compact CRB for delay, Doppler, phase estimation -- application to GNSS SPP and performance characterisation," in: _IET_, vol. 14, no. 10, pp. 1537--1549, **2020**. DOI: [10.1049/iet-rsn.2020.0168](doi.org/10.1049/iet-rsn.2020.0168)
+[1] Daniel Medina, Lorenzo Ortega, Jordi Vilà-Valls, Pau Closas, François Vincent, Eric Chaumette, &quot;Compact CRB for delay, Doppler, phase estimation -- application to GNSS SPP and performance characterisation,&quot; in: <i>IET</i>, vol. 14, no. 10, pp. 1537--1549, <b>2020</b>. DOI: [10.1049/iet-rsn.2020.0168](https://doi.org/10.1049/iet-rsn.2020.0168)
 
-[2] C. Lubeigt, L. Ortega, J. Vilà-Valls, L. Lestarquit, E. Chaumette, "[Joint Delay-Doppler Performance in a Dual Source Context](/publication/2020-11-27-RS-joint)," in _Remote Sensing_, vol. 12, no. 23, p. 3894, **2020**.
+[2] Corentin Lubeigt, Lorenzo Ortega, Jordi Vilà-Valls, Laurent Lestarquit, Eric Chaumette, &quot;[Joint Delay-Doppler Performance in a Dual Source Context](/publication/2020-11-27-RS-joint),&quot; in <i>Remote Sensing</i>, vol. 12, no. 23, p. 3894, <b>2020</b>.
 
-[3] C. Lubeigt, L. Ortega, J. Vilà-Valls, E. Chaumette, "[Untangling first and second order statistics contributions in multipath scenarios](/publication/2023-04-01-SP-untangling)," in _Signal Processing_, vol. 205, p.108868, **2023**.
+[3] Corentin Lubeigt, Lorenzo Ortega, Jordi Vilà-Valls, Eric Chaumette, &quot;[Untangling first and second order statistics contributions in multipath scenarios](/publication/2023-04-01-SP-untangling),&quot; in <i>Signal Processing</i>, vol. 205, p.108868, <b>2023</b>.
 
-[4] C. Lubeigt, L. Ortega, J. Vilà-Valls, L. Lestarquit, E. Chaumette, "[Clean-to-Composite Bound Ratio: A New Multipath Criterion for GNSS Signal Design and Analysis](/publication/2022-05-03-TAES-ccbr)," in _IEEE Transactions on Aerospace and Electronic Systems_, vol. 58, no. 6, pp. 5412--5424, **2022**.
-
-
-Short description of portfolio item number 1<br/><img src='/images/500x300.png'>
+[4] Corentin Lubeigt, Lorenzo Ortega, Jordi Vilà-Valls, Laurent Lestarquit, Eric Chaumette, &quot;[Clean-to-Composite Bound Ratio: A New Multipath Criterion for GNSS Signal Design and Analysis](/publication/2022-05-03-TAES-ccbr),&quot; in <i>IEEE Transactions on Aerospace and Electronic Systems</i>, vol. 58, no. 6, pp. 5412--5424, <b>2022</b>.
