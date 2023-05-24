@@ -28,7 +28,7 @@ Rapporteurs:
 
 Examiners:
 
-- Mrs. Estel CARDELLACH, Research Director at ICE (IEEC-CSIC)
+- Ms. Estel CARDELLACH, Research Director at ICE (IEEC-CSIC)
 
 Supervisors:
 

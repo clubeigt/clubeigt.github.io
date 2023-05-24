@@ -8,6 +8,6 @@ date: 2022-09-09
 location: "Nancy, France"
 ---
 
-Presentation of the paper [*Les signaux à bande large au service de la réflectométrie par GNSS à site bas*](/publication/2022-09-06-GRETSI-bande-large) at the French speaking GdR GRETSI 2022.
+Presentation of the paper [*Les signaux à bande large au service de la réflectométrie par GNSS à site bas*](/publication/2022-09-06-GRETSI-bande-large) at the French speaking GdR GRETSI 2022 that took place at the Palais des Congrès in Nancy, France.
 
 [Presentation slides](http://clubeigt.github.io/files/2022_GRETSI_bande_large_presentation.pdf)
