@@ -10,7 +10,8 @@ location: "Toulouse, France"
 
 ***Signal processing for GNSS reflectometry***
 
-[Final version of the manuscript](/files/2023_PHD_thesis.pdf)
+[Final version of the manuscript](/files/2023_PHD_thesis.pdf) 
+
 [Presentation slides](/files/2023_PHD_defense_presentation.pdf)
 
 Jury

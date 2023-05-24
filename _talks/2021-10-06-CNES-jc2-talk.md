@@ -1,5 +1,5 @@
 ---
-title: "Journée CNES Jeunes Chercheurs (JC2)"
+title: "Journées CNES Jeunes Chercheurs (JC2)"
 collection: talks
 type: "Poster"
 permalink: /talks/2021-10-06-CNES-jc2-talk
