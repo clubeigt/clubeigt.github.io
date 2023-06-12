@@ -12,5 +12,4 @@ I received the Eng. degree in Aeronautics Engineering from [ISAE SUPAERO](https:
 
 I am now a Post-doc at ISAE-SUPAERO where I work on different studies involving:
  - ground-based GNSS-R signal model for deterministic estimation of reflection coefficients;
- - normality tests on non-stationary data;
  - Bayesian approaches for propagation channel impulse response estimation.

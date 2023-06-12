@@ -3,7 +3,7 @@ title: "On the GNSS synchronization performance degradation under interference s
 collection: publications
 permalink: /publication/2023-XX-XX-NAVIGATION-interference
 excerpt: 'In this paper, a closed form expression of the misspecified Cramér-Rao bound is derived for the case of a GNSS receiver with an unknown interference. This result is illustrated with simulations involving a GPS L1 C/A signal and a jammer using an LFM signal.'
-date: 2023-xx-xx
+date: 2023-06-01
 venue: 'Navigation'
 doi: ''
 ---
