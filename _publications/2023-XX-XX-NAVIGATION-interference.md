@@ -13,6 +13,4 @@ Global navigation satellite systems (GNSS) are a key player in a plethora of app
 
 Recommended citation: Lorenzo Ortega, Corentin Lubeigt, Jordi Vilà-Valls, Eric Chaumette, &quot;On the GNSS synchronization performance degradation under interference scenarios: bias and misspecified CRB,&quot; <i>Navigation</i>, Vol. XXX, no. XXX, <b>202X</b>.
 
-[comment]: # test de commentaire
-
-<!--[Bibtex](http://clubeigt.github.io/files/2023_NAVIGATION_interference_bib.bib)--> 
+[Bibtex](http://clubeigt.github.io/files/2023_NAVIGATION_interference_bib.bib)
