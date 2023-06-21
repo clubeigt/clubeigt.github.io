@@ -7,7 +7,7 @@ author_profile: true
 
 ## Journals
 ---
-0. Lorenzo Ortega, Corentin Lubeigt, Jordi Vilà-Valls, Eric Chaumette, &quot;On the GNSS synchronization performance degradation under interference scenarios: bias and misspecified CRB,&quot; <i>Navigation</i>, Vol. XXX, no. XXX, <b>202X</b>.
+0. Lorenzo Ortega, Corentin Lubeigt, Jordi Vilà-Valls, Eric Chaumette, &quot;On the GNSS synchronization performance degradation under interference scenarios: bias and misspecified CRB,&quot; <i>Navigation</i>, accepted for publication.
 0. Corentin Lubeigt, François Vincent, Lorenzo Ortega, Jordi Vilà-Valls, Eric Chaumette, &quot;Approximate maximum likelihood time-delay estimation for two closely spaced sources,&quot; <i>Signal Processing</i>, Vol. 210, 109056, <b>2023</b>. [[paper]](/publication/2023-09-01-SP-approximate)
 0. Corentin Lubeigt, Lorenzo Ortega, Jordi Vilà-Valls, Eric Chaumette, &quot;Band-limited impulse response estimation performance,&quot; <i>Signal Processing</i>, Vol. 208, 108998, <b>2023</b>. [[paper]](/publication/2023-04-01-SP-band-limited)
 0. Corentin Lubeigt, Lorenzo Ortega, Jordi Vilà-Valls, Eric Chaumette, &quot;Untangling first and second order statistics contributions in multipath scenarios,&quot; <i>Signal Processing</i>, Vol. 205, 108868, <b>2023</b>. [[paper]](/publication/2023-04-01-SP-untangling)
