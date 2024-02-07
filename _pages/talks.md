@@ -7,7 +7,7 @@ author_profile: true
 
 ### 2023
 ---
-- December 12: [IEEE CAMSAP 2023](/talks/2023-12-12-CAMSAP-surface-talk), Los Sueños, Costa Rica &rarr; poster presented by François Vincent
+- December 12: [IEEE CAMSAP 2023](/talks/2023-12-12-CAMSAP-surface-talk), Los Sueños, Herradura, Costa Rica &rarr; poster presented by François Vincent
 - April 26: [IEEE/ION PLANS 2023](/talks/2023-04-24-PLANS-gnss-l5-e5-talk), Monterey, CA, USA &rarr; talk given by Lorenzo Ortega
 - February 14: [Ph.D defense](/talks/2023-02-14-phd-defense), Toulouse, France
 

@@ -14,6 +14,8 @@ location: "Toulouse, France"
 
 [Presentation slides](/files/2023_PHD_defense_presentation.pdf)
 
+[3-minute video](https://www.youtube.com/watch?v=CNCkSicVGGE)
+
 Jury
 ----
 
@@ -50,3 +52,9 @@ This study allowed to establish a clear mathematical framework that also fits th
 The problem changes slowly when the satellite elevation increases: the reflection, assumed coherent so far, turns non-coherent because of the reflecting surface roughness. The automatic detection of this transition (i.e., from coherent to non-coherent) is of great interest for future satellite missions. Reflection coherence is mainly observed by looking at the relative phase between the reflected and direct signals. Consequently, a statistical study of phase difference time series allowed to build tests that depend on the time series Gaussianity or regularity. The proposed tests were applied to a data set provided by the IEEC (Barcelona, Spain).
 
 Finally, for scenarios where the reflecting surface distorts the signal significantly, it is necessary to adapt the signal model. The approach proposed in this thesis is to consider the received signal as a convolution between the transmitted signal and the reflecting surface impulse response. This signal model goes with the derivation of the corresponding CRB and the implementation of the maximum likelihood estimator. The question of the impulse response size determination, that is, the determination of the number of pulses required to describe the impulse response, was also tackled based on hypothesis tests. Simulation results show the potential of this approach.
+
+
+Award
+-----
+
+This work was granted the [_Prix de thèse 2023 de la Fondatation ISAE-SUPAERO_](https://fondation-isae-supaero.org/en/8-winners-honored-at-isae-supaero-awards-ceremony/).
