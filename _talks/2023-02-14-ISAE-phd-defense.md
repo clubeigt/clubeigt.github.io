@@ -54,7 +54,7 @@ The problem changes slowly when the satellite elevation increases: the reflectio
 Finally, for scenarios where the reflecting surface distorts the signal significantly, it is necessary to adapt the signal model. The approach proposed in this thesis is to consider the received signal as a convolution between the transmitted signal and the reflecting surface impulse response. This signal model goes with the derivation of the corresponding CRB and the implementation of the maximum likelihood estimator. The question of the impulse response size determination, that is, the determination of the number of pulses required to describe the impulse response, was also tackled based on hypothesis tests. Simulation results show the potential of this approach.
 
 
-Award
------
+Awards
+------
 
-This work was granted the [_Prix de thèse 2023 de la Fondatation ISAE-SUPAERO_](https://fondation-isae-supaero.org/en/8-winners-honored-at-isae-supaero-awards-ceremony/).
+This work was granted the [_Prix de thèse 2023 de la Fondation ISAE-SUPAERO_](https://fondation-isae-supaero.org/en/8-winners-honored-at-isae-supaero-awards-ceremony/).
