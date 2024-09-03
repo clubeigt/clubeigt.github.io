@@ -4,7 +4,7 @@ collection: talks
 type: "Conference"
 permalink: /talks/2024-08-26-EUSIPCO-weather-doppler-talk
 venue: "Centre des congrès de Lyon"
-date: 2024-08-26
+date: 2024-08-29
 location: "Lyon, France"
 ---
 
