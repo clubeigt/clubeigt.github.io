@@ -5,6 +5,10 @@ permalink: /talks/
 author_profile: true
 ---
 
+### 2024
+---
+- August 29: [EUSIPCO 2024](/talks/2024-08-26-EUSIPCO-weather-doppler-talk), Lyon, France
+
 ### 2023
 ---
 - December 12: [IEEE CAMSAP 2023](/talks/2023-12-12-CAMSAP-surface-talk), Los Sueños, Herradura, Costa Rica &rarr; poster presented by François Vincent

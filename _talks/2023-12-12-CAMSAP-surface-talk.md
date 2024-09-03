@@ -3,7 +3,7 @@ title: "IEEE International Workshop on Computational Advances in Multi-Sensor Ad
 collection: talks
 type: "Conference"
 permalink: /talks/2023-12-12-CAMSAP-surface-talk
-venue: " Los Sueños Marriott Ocean & Golf Resort"
+venue: "Los Sueños Marriott Ocean & Golf Resort"
 date: 2023-12-12
 location: "Herradura, Costa Rica"
 ---

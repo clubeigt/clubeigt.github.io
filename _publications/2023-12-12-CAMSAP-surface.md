@@ -2,7 +2,7 @@
 title: "Towards surface mapping using GNSS-IR"
 collection: publications
 permalink: /publication/2023-12-12-CAMSAP-surface
-excerpt: 'This paper presents a refection signal model for close-to-ground GNSS-IR scenarios. This model allows to map reflection coefficients of the reflecting surface.'
+excerpt: 'This paper presents a reflection signal model for close-to-ground GNSS-IR scenarios. This model allows to map reflection coefficients of the reflecting surface.'
 date: 2023-12-12
 venue: 'IEEE International Workshop on Computational Advances in Multi-Sensor Adaptive Processing (CAMSAP)'
 doi: '10.1109/CAMSAP58249.2023.10403498'
