@@ -5,6 +5,10 @@ permalink: /talks/
 author_profile: true
 ---
 
+### 2025
+---
+- February 24: [TéSA seminar](/talks/2025-02-24-TESA-seminar-talk), Toulouse, France
+
 ### 2024
 ---
 - August 29: [EUSIPCO 2024](/talks/2024-08-26-EUSIPCO-weather-doppler-talk), Lyon, France

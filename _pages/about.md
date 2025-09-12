@@ -15,7 +15,7 @@ Following my graduation, I lingered at ISAE-SUPAERO as a Post-doc where I worked
  - Bayesian approaches for propagation channel impulse response estimation.
 
 I am now a Post-doc at [Météo France](https://meteofrance.com/) in the _Centre de Météorologie Radar_ department where I work on signal processing techniques for upcoming precipitation radar technologies. My interest there involves:
- - optimal signal modulation for weather radar pulse design; 
  - Doppler spectrum moments estimation of weather signals;
+ - characterization of indicators to identify ground clutter;
  - error propagation characterization of weather signals post-processing.
  
