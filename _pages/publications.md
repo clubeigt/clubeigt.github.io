@@ -7,6 +7,7 @@ author_profile: true
 
 ## Journals
 ---
+0. Corentin Lubeigt, &quot;SIGMA: A weather radar signal fluctuation descriptor for ground clutter identification,&quot; <i>accepted for publication in IEEE Geoscience and Remote Sensing Letters</i>. [[paper]](/publication/2026-xx-xx-GRSL-sigma)
 0. Lorenzo Ortega, Corentin Lubeigt, Jordi Vilà-Valls, Eric Chaumette, &quot;On the GNSS synchronization performance degradation under interference scenarios: bias and misspecified CRB,&quot; <i>Navigation</i>, Vol. 70, no. 4, <b>2023</b>. [[paper]](/publication/2023-12-01-NAVIGATION-interference)
 0. Corentin Lubeigt, François Vincent, Lorenzo Ortega, Jordi Vilà-Valls, Eric Chaumette, &quot;Approximate maximum likelihood time-delay estimation for two closely spaced sources,&quot; <i>Signal Processing</i>, Vol. 210, 109056, <b>2023</b>. [[paper]](/publication/2023-09-01-SP-approximate)
 0. Corentin Lubeigt, Lorenzo Ortega, Jordi Vilà-Valls, Eric Chaumette, &quot;Band-limited impulse response estimation performance,&quot; <i>Signal Processing</i>, Vol. 208, 108998, <b>2023</b>. [[paper]](/publication/2023-04-01-SP-band-limited)
@@ -18,6 +19,7 @@ author_profile: true
 
 ## International Conferences
 ---
+<!-- 0. Filippo Torrisi, Corentin Lubeigt, Jordi Vilà-Valls, Eric Chaumette, &quot;Delay and random scattering estimation with a band-limited signal: unconditional CRB and MLE,&quot; <i>submitted to IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026)</i>, Barcelona, Spain, April 2026 -->
 0. Corentin Lubeigt, &quot;Deliberate model misspecification for weather radar signal Doppler spectrum moments estimation,&quot; <i>32nd European Signal Processing Conference (EUSIPCO)</i>, Lyon, France, August 2024. [[paper]](/publication/2024-08-26-EUSIPCO-weather-doppler) [[presentation]](/talks/2024-08-26-EUSIPCO-weather-doppler-talk)
 0. Corentin Lubeigt, François Vincent, &quot;Towards surface mapping using GNSS-IR,&quot; <i>IEEE International Workshop on Computational Advances in Multi-Sensor Adaptive Processing (CAMSAP)</i>, Los Sueños, Costa Rica, December 2023. [[paper]](/publication/2023-12-12-CAMSAP-surface) [[presentation]](/talks/2023-12-12-CAMSAP-surface-talk)
 0. Lorenzo Ortega, Corentin Lubeigt, Jordi Vilà-Valls, Eric Chaumette, &quot;GNSS L5/E5 maximum likelihood synchronization performance degradation under DME interference,&quot; <i>IEEE/ION Position Location and Navigation Symposium (PLANS)</i>, Monterey, CA, USA, April 2023. [[paper]](/publication/2023-04-24-PLANS-gnss-l5-e5) [[presentation]](/talks/2023-04-24-PLANS-gnss-l5-e5-talk)
