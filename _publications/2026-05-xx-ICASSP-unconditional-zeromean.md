@@ -3,7 +3,7 @@ title: "Delay and random scattering estimation with a band-limited signal: uncon
 collection: publications
 permalink: /publication/2026-05-xx-ICASSP-unconditional-zeromean
 excerpt: 'This paper proposes to consider the GNSS reflected signal with Gaussian prior on the amplitude. The estimation of signal power and time-delay is then addressed within the framework of unconditional signal model. Corresponding maximum likelihood and Cramér-Rao bound are also derived and supported by simulations.'
-date: 2024-05-04
+date: 2026-05-04
 venue: 'IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)'
 doi: ''
 ---

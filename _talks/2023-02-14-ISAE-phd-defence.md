@@ -1,8 +1,8 @@
 ---
-title: "PhD Defense"
+title: "PhD Defence"
 collection: talks
-type: "Defense"
-permalink: /talks/2023-02-14-phd-defense
+type: "Defence"
+permalink: /talks/2023-02-14-phd-defence
 venue: "Salle des thèses, ISAE-SUPAERO"
 date: 2023-02-14
 location: "Toulouse, France"
@@ -12,7 +12,7 @@ location: "Toulouse, France"
 
 [Final version of the manuscript](/files/2023_PHD_thesis.pdf) 
 
-[Presentation slides](/files/2023_PHD_defense_presentation.pdf)
+[Presentation slides](/files/2023_PHD_defence_presentation.pdf)
 
 [3-minute video](https://www.youtube.com/watch?v=CNCkSicVGGE)
 
