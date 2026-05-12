@@ -1,5 +1,5 @@
 ---
-title: "SLSIP 2022"
+title: "4th edition of the Statistical Learning for Signal and Image Processing (SLSIP) 2022"
 collection: talks
 type: "Workshop"
 permalink: /talks/2022-10-11-SLSIP-extended-target-talk

@@ -5,6 +5,10 @@ permalink: /talks/
 author_profile: true
 ---
 
+### 2026
+---
+- May 6: [ICASSP 2026](/talks/2026-05-06-ICASSP-unconditional-zeromean), Barcelona, Spain &rarr; talk givent by Filippo Torrisi
+
 ### 2025
 ---
 - February 24: [TéSA seminar](/talks/2025-02-24-TESA-seminar-talk), Toulouse, France

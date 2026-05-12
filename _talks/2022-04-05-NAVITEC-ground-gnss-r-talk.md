@@ -1,5 +1,5 @@
 ---
-title: "NAVITEC 2022"
+title: "10th ESA Workshop on Satellite Navigation Technologies (NAVITEC) 2022"
 collection: talks
 type: "Workshop"
 permalink: /talks/2022-04-05-NAVITEC-ground-gnss-r-talk
