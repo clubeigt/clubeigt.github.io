@@ -1,5 +1,5 @@
 ---
-title: "IEEE International Workshop on Computational Advances in Multi-Sensor Adaptive Processing (CAMSAP) 2023"
+title: "IEEE International Workshop on Computational Advances in Multi-Sensor Adaptive Processing (CAMSAP 2023)"
 collection: talks
 type: "Conference"
 permalink: /talks/2023-12-12-CAMSAP-surface-talk

@@ -7,7 +7,7 @@ author_profile: true
 
 ### 2026
 ---
-- May 6: [ICASSP 2026](/talks/2026-05-06-ICASSP-unconditional-zeromean), Barcelona, Spain &rarr; talk givent by Filippo Torrisi
+- May 6: [ICASSP 2026](/talks/2026-05-06-ICASSP-unconditional-zeromean-talk), Barcelona, Spain &rarr; talk given by Filippo Torrisi
 
 ### 2025
 ---
