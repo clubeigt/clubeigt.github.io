@@ -10,12 +10,13 @@ doi: '10.1109/LGRS.2025.3645589'
 Weather radar signal fluctuation has been used to identify ground clutter (GC) from meteorological echoes for decades. Indeed, the fluctuation of a radar signal intuitively informs whether an echo comes from a static object (GC) or a random phenomenon (precipitation). Based on this intuition,  Météo-France has implemented the clutter indicator, <i>Ci</i>, which proved satisfactory to correctly identify pixels affected by GC. In this study, a revision of the <i>Ci</i>, noted SIGMA, is presented. The theoretical statistics (mean and variance) of SIGMA are then derived in the case of meteorological echoes with large spectral width and verified with both simulated and real data. As an example this result is then used to set the false alarm rate of a GC detector.
 
 
-[Paper available here](http://clubeigt.github.io/files/2025_GRSL_sigma.pdf)
+[Author version](http://clubeigt.github.io/files/2025_GRSL_sigma.pdf)
 
 Recommended citation: Corentin Lubeigt, &quot;SIGMA: A weather radar signal fluctuation descriptor for ground clutter identification,&quot; <i>IEEE Geoscience and Remote Sensing Letters</i>, Vol. 23, pp. 1--5, <b>2025</b>.
 
 [Bibtex](http://clubeigt.github.io/files/2025_GRSL_sigma_bib.bib)
+
 ---
 Supplementary material
 
-[Technical note](http://clubeigt.github.io/files/2026_GRSL_sigma_technote.pdf)
+[Technical note](http://clubeigt.github.io/files/2025_GRSL_sigma_technote.pdf)
