@@ -3,7 +3,7 @@ title: "IEEE International Conference on Acoustics, Speech, and Signal Processin
 collection: talks
 type: "Conference"
 permalink: /talks/2026-05-06-ICASSP-unconditional-zeromean-talk
-venue: "Centre de Convencions Internacional de Barcelona "
+venue: "Centre de Convencions Internacional de Barcelona"
 date: 2026-05-06
 location: "Barcelona, Spain"
 ---
