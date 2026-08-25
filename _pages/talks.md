@@ -7,8 +7,9 @@ author_profile: true
 
 ### 2026
 ---
-<!-- - August 24: [ERAD 2026b](/talks/2026-08-24-ERAD-x-band-talk), Belgrade, Serbia
-- August 24: [ERAD 2026a](/talks/2026-08-24-ERAD-sigma-rfi-talk), Belgrade, Serbia -->
+- August 24: ERAD 2026, Belgrade, Serbia. Poster on RFI and oral presentation on X-band and QPE.
+<!-- - August 24: [ERAD 2026b](/talks/2026-08-24-ERAD-x-band-qpe-talk), Belgrade, Serbia -->
+<!-- - August 24: [ERAD 2026a](/talks/2026-08-24-ERAD-sigma-rfi-talk), Belgrade, Serbia -->
 - August 12: [IGARSS 2026](/talks/2026-08-12-IGARSS-unconditional-nonzeromean-talk), Washington DC, USA &rarr; poster presented by Filippo Torrisi
 - May 6: [ICASSP 2026](/talks/2026-05-06-ICASSP-unconditional-zeromean-talk), Barcelona, Spain &rarr; talk given by Filippo Torrisi
 
